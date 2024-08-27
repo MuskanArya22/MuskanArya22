@@ -8,16 +8,11 @@
 <p align="center">
   <a href="https://x.com/MuskanA82333319"><img src="https://img.shields.io/twitter/follow/muskanarya22?label=Follow%20me&style=social" alt="Twitter" width="120"></a>
   <a href="https://www.linkedin.com/in/muskan-arya-2210arya/"><img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn" width="120"></a>
+  <a href="https://www.instagram.com/muskan_arya_2210/"><img src="https://img.shields.io/badge/-Follow%20on%20Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="120"></a>
 </p>
 
 <h2 align="center">About Me</h2>
-<p align="center">I'm passionate about solving challenging problems and creating exceptional digital experiences. 	I am a team player with excellent communication, passionate, 
-								and self-learned coders. Learning and developing secure, 
-								efficient, and scalable web applications and web-based management
-								systems by writing standard, well-documented, and efficient codes.
-								I want to utilize my institutional skills along with my professional
-								skills to implement innovative ideas into reality.
-. Currently, I'm focusing on expanding my knowledge in full-stack development and contributing to impactful projects.</p>
+<p align="center">I'm passionate about solving challenging problems and creating exceptional digital experiences. I am a team player with excellent communication, passionate, and self-learned coder. Learning and developing secure, efficient, and scalable web applications and web-based management systems by writing standard, well-documented, and efficient codes. I want to utilize my institutional skills along with my professional skills to implement innovative ideas into reality. Currently, I'm focusing on expanding my knowledge in full-stack development and contributing to impactful projects.</p>
 <p align="center">📫 How to reach me: <a href="mailto:muskanarya2210@gmail.com">muskanarya2210@gmail.com</a></p>
 
 <h2 align="center">Tech Stack</h2>
@@ -37,8 +32,31 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Windows%20Terminal-4D4D4D?style=flat&logo=windows-terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/-GithubPages-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Render-3D3D3D?style=flat&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NodeJS-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat&logo=react-query&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/-React%20Hook%20Form-EC5990?style=flat&logo=react-hook-form&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit-learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=raspberry-pi&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=muskanarya22&show_icons=true&theme=radical" alt="Muskan Arya's GitHub stats" />
@@ -56,6 +74,14 @@
   <img src="https://github-profile-trophy.vercel.app/?username=muskanarya22&theme=dracula&no-frame=true" alt="Trophies" />
 </p>
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=muskanarya22&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 <h2 align="center">Projects</h2>
 
