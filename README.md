@@ -149,4 +149,10 @@
 </p>
 <p>At GlobalLogic, I contributed to a full-stack project focused on developing a navigation and service platform for connected vehicles. This experience enhanced my understanding of large-scale software development and the integration of cutting-edge technologies.</p>
 
+### Bharat Intern
+<p align="center">
+<img src="assets/BharatIntern.png" alt="Bharat Intern" width="400"/>
+</p>
+<p>Completed a Virtual Internship in Web Development at Bharat Intern, recognized for active participation and successful completion of hands-on projects in collaboration with MSME. Developed essential skills in frontend and backend technologies during the program. Demonstrated the ability to work independently on tasks and collaborate with team members for project execution.</p>
+
 <h2 align="center" style="color: #FF0000;">🚀 More Projects and Certificates Coming Soon! 🚀</h2>
